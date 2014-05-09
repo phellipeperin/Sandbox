@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 INDEX VERSION 1.126+/Users/yulle/Sandbox/.metadata/.plugins/org.eclipse.jdt.core
 3321539481.index
 765977872.index
@@ -19,3 +20,6 @@ INDEX VERSION 1.126+/Users/yulle/Sandbox/.metadata/.plugins/org.eclipse.jdt.core
 3954040986.index
 84777399.index
 3004609673.index
+=======
+INDEX VERSION 1.126+/Users/phellipe.perin/Desktop/Sandbox/.metadata/.plugins/org.eclipse.jdt.core
+>>>>>>> FETCH_HEAD
