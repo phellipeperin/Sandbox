@@ -1,0 +1,14 @@
+Com siape:
+http://notes.ufsc.br/aplic/exportacao.nsf/ExportaXMLEMC?openagent&0359654 
+
+Com siape e periodo inicial: 
+http://notes.ufsc.br/aplic/exportacao.nsf/ExportaXMLEMC?openagent&0359654&01/11/2011 
+
+Com siape, periodo inicial e termino: 
+http://notes.ufsc.br/aplic/exportacao.nsf/ExportaXMLEMC?openagent&0359654&01/11/2011&01/01/2015 
+
+Com periodo inicial e sem siape, informar 0 para o siape: 
+http://notes.ufsc.br/aplic/exportacao.nsf/ExportaXMLEMC?openagent&0&01/11/2011 
+
+Só com período final,  informar 0 para o siape e para o período inicial: 
+http://notes.ufsc.br/aplic/exportacao.nsf/ExportaXMLEMC?openagent&0&0&02/02/2011 
